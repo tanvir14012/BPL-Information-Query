@@ -1,0 +1,124 @@
+Kumar Sangakkara
+Dhaka Dynamites
+10
+349
+02
+00
+40
+10
+75
+38.77
+117.11
+
+Imrul Kayes 
+Comilla Victorians
+12
+312
+02
+00
+34
+12
+67
+28.36
+114.70
+
+Tamim Iqbal 
+Chittagong Vikings
+09
+298
+03
+00
+23
+13
+69
+37.25
+118.72
+
+Mahmudullah 
+Barisal Bulls
+13
+279
+02
+00
+23
+15
+51
+27.90
+100.35
+
+Tillakaratne Dilshan 
+Chittagong Vikings
+10
+260
+01
+00
+21
+09
+67
+28.88
+133.33
+
+Lendl Simmons 
+Rangpur Riders
+10
+221
+02
+00
+10
+05
+73
+22.10
+102.79
+
+Ashar Zaidi 
+Comilla Victorians
+11
+215
+01
+00
+12
+06
+53
+53.75
+138.70
+
+Jahurul Islam 
+Rangpur Riders
+09
+205
+01
+00
+15
+08
+62	
+41.00	
+100.00	
+
+Ahmed Shehzad 
+Comilla Victorians
+07
+204
+01
+00
+17
+08
+76	
+34.00	
+110.86
+
+Nasir Hossain 
+Dhaka Dynamites
+11
+193
+00
+00
+10
+06
+33	
+19.30	
+102.65
+
+
+
+
+

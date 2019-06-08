@@ -1,0 +1,16 @@
+     BBBBBBBBBBBBBBBBB        PPPPPPPPPPPPPPPPP        LLLLLLLLLLL                                                                                               
+     B::::::::::::::::B       P::::::::::::::::P       L:::::::::L                                                                                               
+     B::::::BBBBBB:::::B      P::::::PPPPPP:::::P      L:::::::::L                                                                                               
+     BB:::::B     B:::::B     PP:::::P     P:::::P     LL:::::::LL                                                                                               
+       B::::B     B:::::B       P::::P     P:::::P       L:::::L                                                                                                 
+       B::::B     B:::::B       P::::P     P:::::P       L:::::L                                                                                                 
+       B::::BBBBBB:::::B        P::::PPPPPP:::::P        L:::::L                                                                                                 
+       B:::::::::::::BB         P:::::::::::::PP         L:::::L                                                                                                 
+       B::::BBBBBB:::::B        P::::PPPPPPPPP           L:::::L                                                                                                 
+       B::::B     B:::::B       P::::P                   L:::::L                                                                                                 
+       B::::B     B:::::B       P::::P                   L:::::L                                                                                                 
+       B::::B     B:::::B       P::::P                   L:::::L         LLLLLL                                                                                  
+     BB:::::BBBBBB::::::B     PP::::::PP               LL:::::::LLLLLLLLL:::::L                                                                                  
+     B:::::::::::::::::B      P::::::::P               L::::::::::::::::::::::L                                                                                  
+     B::::::::::::::::B       P::::::::P               L::::::::::::::::::::::L                                                                                  
+     BBBBBBBBBBBBBBBBB        PPPPPPPPPP               LLLLLLLLLLLLLLLLLLLLLLLL  

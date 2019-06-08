@@ -1,0 +1,89 @@
+AC Thomas	
+Dhaka Gladiators
+12
+20
+0
+3-19
+6.79
+14.90
+
+Azhar Mahmood	
+Barisal Burners
+12
+19
+0
+3-7
+6.71
+14.84
+
+Enamul Haque jnr	
+Chittagong Kings
+15
+18
+0
+3-14
+6.20
+17.16
+
+Mohammad Nabi	
+Sylhet Royals
+14
+18
+0
+3-27
+7.38
+19.27
+
+Mosharraf Hossain	
+Dhaka Gladiators
+12
+17
+0
+4-9
+6.40
+16.00
+
+Abdur Razzak	
+Rangpur Riders
+11
+17
+0
+4-35
+7.65
+19.35
+
+Sohag Gazi	
+Sylhet Royals
+14
+17
+0
+3-20
+6.83
+19.76
+
+KK Cooper	
+Chittagong Kings
+11
+16
+0
+4-10
+5.67
+14.31
+
+Shakib Al Hasan	
+Dhaka Gladiators
+12
+15
+0
+3-19
+6.21
+19.33
+
+Rubel Hossain	
+Chittagong Kings
+11
+14
+0
+4-44
+7.85
+18.78
