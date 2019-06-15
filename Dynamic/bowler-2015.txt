@@ -1,0 +1,82 @@
+Kevon Cooper 
+Barisal Bulls
+9
+22
+1
+5-15
+5.85
+9.31
+Abu Hider 
+Comilla Victorians
+12
+21
+0
+4-19
+6.91
+15.04
+Thisara Perera 
+Rangpur Riders
+12
+18
+1
+5-26
+6.74
+13.61
+Shakib Al Hasan 
+Rangpur Riders
+11
+18
+0
+4-16
+6.39
+14.55
+Ashar Zaidi 
+Comilla Victorians
+11
+17
+0
+4-11
+4.78
+10.41
+Al-Amin Hossain 
+Barisal Bulls
+13
+17
+1
+5-36
+7.93
+22.88
+Mosharraf Hossain 
+Dhaka Dynamites
+10
+16
+0
+4-16
+6.11
+10.31
+Arafat Sunny 
+Rangpur Riders
+11
+16
+0
+4-14
+6.55
+14.75
+Mohammad Amir 
+Chittagong Vikings
+9
+14
+0
+4-30
+5.56
+12.64
+Mustafizur Rahman 
+Dhaka Dynamites
+10
+14
+0
+3-14
+5.70
+15.28
+
+

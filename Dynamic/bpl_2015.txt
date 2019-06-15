@@ -1,0 +1,811 @@
+Barisal Bulls
+Axiom Group
+3
+250000
+10
+7
+3
+Mahmudullah(Captain)
+Bangladesh
+Batting-allrounder
+13 279
+2 51
+29.70 100.35
+2/23 13 5 0
+6.20 18.40
+Kevon Cooper
+West Indies
+Bowling-allrounder
+9 83
+0 22
+27.66 153.70
+5/15 9 22 1
+5.85 9.31
+Chris Gayle
+West Indies
+Batting-allrounder
+4 139
+1 92
+46.33 163.52
+0/0 4 0 0
+4.00 0.00
+Al-Amin Hossain
+Bangladesh
+Bowler
+13 6
+1 3
+6.00 46.15
+5/36 13 17 1
+7.93 22.88
+Mohammad Sami
+Pakistan
+Bowler
+11 46
+0 16
+11.50 139.39
+2/16 11 11 0
+5.87 21.90
+Sabbir Rahman
+Bangladesh
+Batting-allrounder
+13 189
+1 79
+18.90 103.84
+0/0 13 0 0
+5.50 0.00
+Shahriar Nafees
+Bangladesh
+Batsman
+5 104
+0 44
+26.00 109.47
+0/0 5 0 0
+0.00 0.00
+Sohag Gazi
+Bangladesh
+Bowling-allrounder
+2 1
+0 1
+1.00 11.11
+1/18 2 2 0
+5.50 22.00
+Taijul Islam
+Bangladesh
+Bowler
+11 22
+0 10
+11.00 64.70
+2/18 11 8 0
+6.38 22.62
+Brendan Taylor
+Zimbabwe
+Wicket-keeper batsman
+4 13
+0 9
+3.25 68.42
+0/0 4 0 0
+0.00 0.00
+Suhrawadi Shuvo
+Bangladesh
+Bowler
+1 2
+0 2
+2.00 50.00
+2/16 1 0 0
+5.00 20.00
+Rony Talukdar
+Bangladesh
+Batsman
+13 132
+0 38
+11.00 94.28
+0/0 13 0 0
+0.00 0.00
+Sajedul Islam
+Bangladesh
+Bowling-allrounder
+2 1
+0 1
+1.00 11.11
+1/18 2 1 0
+5.20 26.00
+Mehedi Maruf
+Bangladesh
+Batsman
+10 126
+0 37
+15.75 82.89
+0/0 10 0 0
+0.00 0.00
+Seekkuge Prasanna
+Srilanka
+Batting-allrounder
+10 106
+0 36
+15.14 153.62
+2/23 10 5 0
+5.93 37.40
+Evin Lewis
+West Indies
+Batsman
+7 145
+0 101
+29.00 119.83
+0/0 7 0 0
+0.00 0.00
+Chittagong Vikings
+DBL Group
+6
+340000
+10
+2
+8
+Tamim Iqbal(Captain)
+Batsman
+Bangladesh
+9 298
+3 69
+37.25 118.72
+0/0 9 0 0
+0.00 0.00
+Tillakaratne Dilshan
+Srilanka
+Batting-allrounder
+10 260
+1 67
+28.88 133.33
+1/19 10 2 0
+7.38 33.66
+Mohammad Amir
+Pakistan
+Bowler
+9 33
+0 20
+5.50 100.00
+4/30 9 14 0
+5.56 12.64
+Saeed Ajmal
+Pakistan
+Bowler
+3 4
+0 4
+4.00 66.66
+2/35 3 2 0
+7.45 41.00
+Taskin Ahmed
+Bangladesh
+Bowler
+7 0
+0 0
+0.00 0.00
+1/23 7 4 0
+8.52 53.25
+Yasir Ali
+Bangladesh
+Batsman
+7 112
+1 63
+22.40 113.13
+0/0 7 0 0
+0.00 0.00
+Anamul Haque
+Bangladesh
+Wicket-keeper batsman
+10 142
+0 39
+17.75 107.57
+0/0 10 0 0
+0.00 0.00
+Elton Chigumbura
+Zimbabwe
+Batting-allrounder
+2 6
+0 5
+3.00 42.85
+1/9 2 2 0
+15.66 23.50
+Elias Sunny
+Bangladesh
+Bowler
+2 10
+0 10
+10.00 83.33
+0/0 2 0 0
+7.50 0.00
+Kamran Akmal
+Pakistan
+Wicket-keeper batsman
+2 12
+0 12
+6.00 150.00
+0/0 2 0 0
+0.00 0.00
+Jeevan Mendis
+Srilanka
+Batting-allrounder
+4 63
+0 39
+15.75 107.57
+0/0 4 0 0
+10.66 0.00
+Naeem Islam
+Bangladesh
+Batting-allrounder
+4 87
+0 38
+43.50 84.46
+3/7 4 3 0
+5.00 15.00
+Shafiul Islam
+Bangladesh
+Bowler
+10 23
+0 12
+5.75 104.54
+3/21 10 13 0
+8.38 21.38
+Umar Akmal
+Pakistan
+Batsman
+5 89
+0 49
+29.66 94.68
+0/0 5 0 0
+0.00 0.00
+Ziaur Rahman
+Bangladesh
+Bowling-allrounder
+9 83
+0 39
+16.60 133.87
+2/24 9 2 0
+10.28 36.00
+Bilawal Bhatti      
+Pakistan
+Bowling-allrounder
+4 22
+0 11
+22.00 81.48
+1/20 4 3 0
+6.88 33.66
+Comilla Victorians
+Royal Sporting Limited
+1
+4000000
+10
+7
+3
+Mashrafe Mortaza(Captain)
+Bangladesh
+Bowling-allrounder
+12 102
+1 56
+20.40 129.11
+1/13 12 5 0
+6.16 37.40
+Ahmed Shehzad
+Pakistan
+Batsman
+7 204
+1 76
+34.00 110.86
+0/0 7 0 0
+0.00 0.00
+Imrul Kayes
+Bangladesh
+Batsman
+12 312
+2 67
+28.36 114.70
+0/0 12 0 0
+0.00 0.00
+Nuwan Kulasekara
+Srilanka
+Bowler
+8 0
+0 0
+0.00 0.00
+4/12 8 10 0
+5.74 15.50
+Mahmudul Hasan
+Bangladesh
+Batting-allrounder
+6 27
+0 31
+18.00 71.28
+0/0 6 0 0
+8.12 0.00
+Sunil Narine
+West Indies
+Bowler
+4 0
+0 0
+0.00 0.00
+1/16 4 4 0
+5.80 22.50
+Marlon Samuels
+West Indies
+Batting-allrounder
+4 142
+1 69
+42.00 115.44
+0/0 4 0 0
+0.00 0.00
+Shoaib Malik
+Pakistan
+Batting-allrounder
+4 65
+0 34
+21.66 86.66
+1/15 4 2 0
+5.85 41.00
+Darren Stevens
+England
+Bowler
+3 13
+0 8
+6.50 59.09
+1/9 3 2 0
+4.00 14.00
+Abu Hider
+Bangladesh
+Bowler
+12 19
+0 18
+5.00 71.24
+4/19 12 21 0
+6.91 15.04
+Alok Kapali
+Bangladesh
+Batting-allrounder
+10 95
+0 39
+31.66 118.75
+0/0 10 0 0
+5.00 0.00
+Dhiman Ghosh
+Bangladesh
+Wicket-keeper batsman
+3 2 
+0 2
+2.00 28.57
+0/0 3 0 0
+0.00 0.00
+Kamrul Islam Rabbi
+Bangladesh
+Bowler
+2 1
+0 1
+1.00 33.33
+1/22 2 2 0
+11.50 23.00
+Liton Das
+Bangladesh
+Wicket-keeper batsman
+9 123
+0 42
+13.66 93.18
+0/0 9 0 0
+0.00 0.00
+Krishmar Santokie
+West Indies
+Bowler
+3 21
+0 21
+10.00 131.25
+1/20 3 0 0
+11.00 20.00
+Shuvagata Hom
+Bangladesh
+Batting-allrounder
+12 94
+0 34
+11.75 142.42
+3/8 12 5 0
+6.75 21.60
+Dhaka Dynamites
+Beximco Group
+4
+6000000
+10
+6
+4
+Kumar Sangakkara(Captain)
+Srilanka
+Wicket-keeper batsman
+10 349
+2 75
+38.77 117.11
+0/0 10 0 0
+0.00 0.00
+Farhad Reza
+Bangladesh
+Bowling-allrounder
+9 76
+0 21
+19.00 118.75
+2/26 9 7 0
+7.51 28.28
+Mohammad Irfan
+Pakistan
+Bowler
+2 0
+0 0
+0.00 0.00
+1/22 2 2 0
+6.78 26.00
+Mosharraf Hossain
+Bangladesh
+Bowling-allrounder
+10 8
+0 3
+7.50 75.00
+4/16 10 16 0
+6.11 10.31
+Nasir Jamshed
+Pakistan
+Batsman
+3 67
+0 44
+22.33 89.33
+0/0 3 0 0
+0.00 0.00
+Ryan ten Doeschate
+Netherlands
+Batting-allrounder
+6 100
+0 45
+25.00 94.33
+2/19 6 5 0
+6.85 25.02
+Malcolm Waller
+Zimbabwe
+Batsman
+8 91
+0 19
+22.75 94.30
+0/0 8 0 0
+0.00 0.00
+Yasir Shah
+Pakistan
+Bowler
+8 30
+0 12
+7.50 75.00
+2/24 8 9 0
+5.35 18.44
+Lahiru Thirimanne
+Srilanka
+Batsman
+2 18
+0 13
+9.00 138.46
+0/0 2 0 0
+0.00 0.00
+Sohail Khan
+Pakistan
+Bowler
+1 8
+0 8
+8.00 95.56
+0/0 1 0 0
+9.00 0.00
+Shamsur Rahman
+Bangladesh
+Batsman
+3 25
+0 19
+8.33 80.64
+0/0 3 0 0
+0.00 0.00
+Nasir Hossain
+Bangladesh
+Bowling-allrounder
+11 193
+0 33
+19.30 102.65
+3/12 11 6 0
+5.04 20.16
+Mustafizur Rahman
+Bangladesh
+Bowler
+10 1
+0 1
+1.00 100.00
+3/14 10 14 0
+5.70 15.28
+Mosaddek Hossain
+Bangladesh
+Batting-allrounder
+7 116
+0 30
+23.20 94.30
+1/9 7 1 0
+11.50 0.00
+Abul Hasan
+Bangladesh
+Bowling-allrounder
+10 59
+0 12
+11.80 93.65
+3/29 10 11 0
+8.37 22.09
+Nabil Samad
+Bangladesh
+Bowler
+5 3
+0 3
+0.00 75.00
+2/23 5 3 0
+6.20 31.00
+Rangpur Riders
+I Sports Limited
+2
+70000000
+10
+7
+3
+Shakib Al Hasan(Captain)
+Bangladesh
+Batting-allrounder
+11 136
+0 33
+17.00 103.81
+4/16 11 18 0
+6.39 14.55
+Abu Jayed
+Bangladesh
+Bowler
+9 0
+0 0
+0.00 0.00
+2/5 9 5 0
+7.86 23.60
+Arafat Sunny
+Bangladesh
+Bowler
+11 13
+0 7
+4.33 72.22
+4/14 11 16 0
+6.55 14.75
+Misbah-ul-Haq
+Pakistan
+Batsman
+5 108
+1 61
+27.00 102.85
+0/0 5 0 0
+0.00 0.00
+Mohammad Nabi
+Afganistan
+Batting-allrounder
+7 37
+0 12
+9.25 127.58
+3/15 7 7 0
+6.98 20.28
+Darren Sammy
+West Indies
+Bowling-allrounder
+10 104
+0 24
+13.00 131.64
+1/7 10 4 0
+7.36 35.00
+Sachithra Senanayake
+Srilnka
+Bowling-allrounder
+3 16
+0 9
+8.00 76.19
+1/15 3 1 0
+4.90 49.00
+Soumya Sarkar
+Bangladesh
+Batsman
+12 177
+1 58
+16.09 111.32
+0/0 12 0 0
+0.00 0.00
+Abdullah Al Mamun
+Bangladesh
+Batsman
+1 20
+0 20
+20.00 86.95
+0/0 1 0 0
+0.00 0.00
+Jahurul Islam
+Bangladesh
+Wicket-keeper batsman
+9 205
+1 62
+41.00 100.00
+0/0 9 0 0
+0.00 0.00
+Mohammad Mithun
+Bangladesh
+Batsman
+12 130
+1 55
+16.25 102.36
+0/0 12 0 0
+0.00 0.00
+Muktar Ali
+Bangladesh
+Bowling-allrounder
+5 9
+1 59
+9.00 81.81
+2/20 5 0 0
+12.16 20.00
+Thisara Perera
+Srilanka
+Bowling-allrounder
+12 155
+0 43
+17.22 122.04
+5/26 12 18 1
+6.74 13.61
+Saqlain Sajib
+Bangladesh
+Bowler
+8 14
+0 11
+7.00 87.50
+3/26 8 8 0
+7.00 19.12
+Lendl Simmons
+west Indies
+Batsman
+10 221
+2 73
+22.10 102.79
+0/0 10 0 0
+0.00 0.00
+Wahab Riaz
+Pakistan
+Bowler
+1 12
+0 12
+12.00 120.00
+1/12 1 1 0
+4.00 12.00
+Sylhet Super Stars
+Alif Group
+5
+56000
+10
+3
+7
+Mushfiqur Rahim(Captain/Keeper)
+Bangladesh
+Wicket-keeper batsman
+10 157
+1 50
+26.16 110.56
+0/0 10 0 0
+0.00 0.00
+Josh Cobb
+England
+Batting-allrounder
+4 51 
+0 21
+12.75 100.00
+0/0 4 0 0
+7.00 0.00
+Ajantha Mendis
+Srilanka
+Bowler
+2 4
+0 3
+4.00 36.36
+1/27 2 1 0
+9.71 68.00
+Mominul Haque
+Bangladesh
+Batsman
+8 78
+0 29
+13.00 84.78
+0/0 8 0 0
+0.00 0.00
+Nurul Hasan
+Bangladesh
+Wicket-keeper batsman
+10 115
+0 35
+19.16 117.34
+0/0 10 0 0
+0.00 0.00
+Owais Shah
+England
+Batsman
+1 11
+0 11
+11.00 37.93
+0/0 1 0 0
+0.00 0.00
+Sohail Tanvir
+Pakistan
+Bowler
+5 57
+0 20
+14.25 123.91
+1/9 5 1 0
+6.87 110.00
+Abdur Razzak
+Bangladesh
+Bowler
+5 16
+0 10
+8,00 76.19
+2/9 5 2 0
+9.29 24.00
+Ravi Bopara
+England
+Batting-allrounder
+9 132
+1 55
+16.50 118.91
+4/18 9 10 0
+5.33 14.40
+Fidel Edwards
+West Indies
+Bowler
+2 16
+0 11
+16.00 177.77
+1/35 2 1 0
+8.75 35.00
+Junaid Siddique
+Bangladesh
+Batsman
+5 105
+1 51
+26.25 94.59
+0/0 5 0 0
+0.00 0.00
+Mohammad Shahid
+Bangladesh
+Bowler
+10 19
+0 6
+3.16 59.37
+4/12 10 140
+6.19 16.14
+Dilshan Munaweera
+Srilanka
+Batting-allrounder
+8 173
+1 64
+21.62 134.10
+1/20 8 1 0
+7.50 150.00
+Nazmul Hossain Milon
+Bangladesh
+Batsman
+8 55
+0 15
+9.16 88.70
+0/0 8 0 0
+0.00 0.00
+Rubel Hossain
+Bangladesh
+Bowler
+6 0
+0 0
+0.00 0.00
+2/6 6 4 0
+9.10 33.75
+Shahid Afridi
+Pakistan
+Bowling-allrounder
+5 87
+1 62
+29.00 153.63
+2/5 5 3 0
+5.13 25.66
+
